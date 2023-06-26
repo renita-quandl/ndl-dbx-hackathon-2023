@@ -17,3 +17,15 @@ Example Prompts:
 1. What table has trades data?
 
 2. ...
+
+
+## Structure
+
+1. The project is built on Databricks using OpenAI, and langchain.
+
+2. When a user prompts the notebook, we prompt against our metadata file to determine the correct table. We then generate a SQL query which connects to the Data Link API and returns results to the user.
+
+
+## Use Cases
+
+User onboarding becomes exponentially more difficult as the number of datasets grows. This tool is designed to give users with zero knowledge of our catalog relevant insights.
