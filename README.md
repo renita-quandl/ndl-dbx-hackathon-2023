@@ -16,7 +16,7 @@ Example Prompts:
 
 1. What table has trades data?
 
-2. ...
+2. What is the volume of NDAQ traded in the SeqTradeReportMessage table?
 
 
 ## Structure
