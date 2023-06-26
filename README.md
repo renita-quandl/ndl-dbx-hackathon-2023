@@ -19,6 +19,9 @@ Example Prompts:
 2. What is the volume of NDAQ traded in the SeqTradeReportMessage table?
 
 
+![NDL-Smart-Querying](NDL-Smart-Querying.png)
+
+
 ## Structure
 
 1. The project is built on Databricks using OpenAI, and langchain.
